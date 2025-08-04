@@ -65,7 +65,7 @@ IoT Dashboards, FastAPI, Laravel, MQTT, Next.js, React.js
 - 📈 [**AI Sales Forecasting System**](https://github.com/svenes25/sellnsug)  
   Forecasting with ARIMA and Artificial Algae Colony Algorithm for small businesses.
 
-- 🌐 [**NEU Community Portal**](https://github.com/svnes25/NEUTOPLULUKLAR)  
+- 🌐 [**NEU Community Portal**](https://github.com/svenes25/NEUTOPLULUKLAR)  
   Web platform to manage +200 communities at Necmettin Erbakan University.
 
 ---
