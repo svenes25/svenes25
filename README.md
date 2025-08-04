@@ -26,7 +26,7 @@ IoT Dashboards, FastAPI, Laravel, MQTT, Next.js, React.js
 ---
 
 ### 🛠️ Technologies & Tools
-
+<p align="left">
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)  
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
@@ -36,7 +36,7 @@ IoT Dashboards, FastAPI, Laravel, MQTT, Next.js, React.js
 ![MQTT](https://img.shields.io/badge/MQTT-FF8200?style=flat&logo=message-bird&logoColor=white)  
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
-
+</p>
 ---
 
 ### 📈 GitHub Stats
