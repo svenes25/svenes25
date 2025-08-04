@@ -59,13 +59,13 @@ IoT Dashboards, FastAPI, Laravel, MQTT, Next.js, React.js
 
 ### 📍 Featured Projects
 
-- 🔧 [**IoT Monitoring Platform**](https://github.com/eneserenseven/dashboard)  
+- 🔧 [**IoT Monitoring Platform**](https://github.com/svenes25/dashboard)  
   Real-time monitoring system using FastAPI, MQTT, and Postgresql.
 
-- 📈 [**AI Sales Forecasting System**](https://github.com/eneserenseven/sellnsug)  
+- 📈 [**AI Sales Forecasting System**](https://github.com/svenes25/sellnsug)  
   Forecasting with ARIMA and Artificial Algae Colony Algorithm for small businesses.
 
-- 🌐 [**NEU Community Portal**](https://github.com/eneserenseven/NEUTOPLULUKLAR)  
+- 🌐 [**NEU Community Portal**](https://github.com/svnes25/NEUTOPLULUKLAR)  
   Web platform to manage +200 communities at Necmettin Erbakan University.
 
 ---
