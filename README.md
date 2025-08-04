@@ -8,16 +8,16 @@
 ---
 
 🌱 **Currently Building:**  
-A real-time device management dashboard using FastAPI, MQTT and Next.js.
+A real-time device management dashboard using FastAPI, MQTT and React.js.
 
 💼 **Working At:**  
-Necmettin Erbakan University as Part-time Web Developer.
+Bewell Technology as Intern Full Stack Developer.
 
 📊 **Research Focus:**  
 AI-powered time series forecasting using ARIMA & Artificial Algae Colony Algorithm.
 
 💬 **Ask me about:**  
-IoT Dashboards, FastAPI, Docker, Laravel, InfluxDB, MQTT, Next.js
+IoT Dashboards, FastAPI, Laravel, MQTT, Next.js, React.js
 
 📫 **How to reach me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/eneserenseven)  
@@ -59,13 +59,13 @@ IoT Dashboards, FastAPI, Docker, Laravel, InfluxDB, MQTT, Next.js
 
 ### 📍 Featured Projects
 
-- 🔧 [**IoT Monitoring Platform**](https://github.com/eneserenseven/iot-monitoring)  
-  Real-time monitoring system using FastAPI, MQTT, and InfluxDB.
+- 🔧 [**IoT Monitoring Platform**](https://github.com/eneserenseven/dashboard)  
+  Real-time monitoring system using FastAPI, MQTT, and Postgresql.
 
-- 📈 [**AI Sales Forecasting System**](https://github.com/eneserenseven/sales-predictor)  
+- 📈 [**AI Sales Forecasting System**](https://github.com/eneserenseven/sellnsug)  
   Forecasting with ARIMA and Artificial Algae Colony Algorithm for small businesses.
 
-- 🌐 [**NEU Community Portal**](https://github.com/eneserenseven/neu-portal)  
+- 🌐 [**NEU Community Portal**](https://github.com/eneserenseven/NEUTOPLULUKLAR)  
   Web platform to manage +200 communities at Necmettin Erbakan University.
 
 ---
