@@ -2,7 +2,7 @@
 <h3 align="center">IoT, Web & AI Developer | FastAPI • Next.js • InfluxDB • MQTT</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eneserenseven&label=Profile%20views&color=0e75b6&style=flat" alt="eneserenseven" />
+  <img src="https://komarev.com/ghpvc/?username=svenes25&label=Profile%20views&color=0e75b6&style=flat" alt="svenes25" />
 </p>
 
 ---
@@ -21,7 +21,7 @@ IoT Dashboards, FastAPI, Laravel, MQTT, Next.js, React.js
 
 📫 **How to reach me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/eneserenseven)  
-[![E-Mail](https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eneserenseven@gmail.com)
+[![E-Mail](https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eneseren2526@gmail.com)
 
 ---
 
@@ -42,9 +42,9 @@ IoT Dashboards, FastAPI, Laravel, MQTT, Next.js, React.js
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eneserenseven&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=svenes25&show_icons=true&theme=radical" alt="stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eneserenseven&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svenes25&theme=radical" alt="streak" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ IoT Dashboards, FastAPI, Laravel, MQTT, Next.js, React.js
 ### 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eneserenseven&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=svenes25&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="trophy" />
 </p>
 
 ---
