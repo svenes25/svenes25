@@ -38,7 +38,7 @@ IoT Dashboards, FastAPI, Laravel, MQTT, Matlab, React.js
   <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Matlab-06B6D4?style=for-the-badge&logo=matlab&logoColor=white?style=for-the-badge&logo=matlab&logoColor=white" alt="Matlab"/>
+  <img src="https://img.shields.io/badge/Matlab-06B6D4?style=for-the-badge&logo=matlab&logoColor=white" alt="Matlab"/>
 </p>
 
 ---
