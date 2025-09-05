@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes Eren Seven</h1>
-<h3 align="center">IoT, Web & AI Developer | FastAPI • React.js • Postgresql • MQTT</h3>
+<h3 align="center">IoT, Web & AI Developer | FastAPI • React.js • Postgresql • MQTT • Matlab</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=svenes25&label=Profile%20views&color=0e75b6&style=flat" alt="svenes25" />
