@@ -19,9 +19,6 @@ A real-time device management dashboard using **FastAPI, MQTT, React.js, and Pos
 💼 **Working At:**  
 Intern Full Stack Developer @ **Bewell Technology**
 
-📊 **Research Interest:**  
-AI-powered time series forecasting using **ARIMA** & **Artificial Algae Colony Algorithm**.
-
 ## 🧰 Technologies & Tools
 
 <p align="center">
@@ -38,14 +35,6 @@ AI-powered time series forecasting using **ARIMA** & **Artificial Algae Colony A
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
   <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab"/>
 </p>
-
----
-
-<h3 align="left">💻 Languages Graph:</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svenes25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
 
 ---
 
