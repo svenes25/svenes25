@@ -16,9 +16,6 @@
 🔭 **Currently building:**  
 A real-time device management dashboard using **FastAPI, MQTT, React.js, and PostgreSQL**.
 
-💼 **Working At:**  
-Intern Full Stack Developer @ **Bewell Technology**
-
 ## 🧰 Technologies & Tools
 
 <p align="center">
