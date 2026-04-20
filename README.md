@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes Eren Seven</h1>
-<h3 align="center">AI & Full Stack Developer | PyTorch • FastAPI • React.js • PostgreSQL • MQTT • MATLAB</h3>
+<h3 align="center">IoT & Full Stack Developer | FastAPI • React.js • PostgreSQL • MQTT • MATLAB</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=svenes25&label=Profile%20views&color=0e75b6&style=flat" alt="svenes25" />
@@ -11,7 +11,7 @@
 
 🎓 **Computer Engineering Student**  
 📍 Necmettin Erbakan University (2021-2026)  
-🚀 Passionate about building tech-driven solutions in **Web Development**, and **AI**.  
+🚀 Passionate about building tech-driven solutions in **Web and Mobile Development**, and **IoT**.  
 
 🔭 **Currently building:**  
 A real-time device management dashboard using **FastAPI, MQTT, React.js, and PostgreSQL**.
